@@ -1,3 +1,5 @@
+<img src="assets/intro.svg" alt="Intro" />
+
 ---
 ### 👩🏻‍💻 About Me
 - 💻 Programming & Web Development Student at Technical College

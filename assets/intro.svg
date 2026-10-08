@@ -3,11 +3,11 @@
 text {
 font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
 font-size: 22px;
-fill: #F9E2AF;
+fill: #F6C1CC;
 }
 </style>
 <text x="10" y="35">Hi, I'm Razan 🌸</text>
-<text x="10" y="70">Creative mind, passionate about learning</text>
-<text x="10" y="105">I turn ideas into smart, meaningful tech</text>
-<text x="10" y="140">Computer Science Student • Future Developer</text>
+<text x="10" y="70">Passionate about Web Development &amp; Creative Design</text>
+<text x="10" y="105">I love turning creative ideas into digital experiences</text>
+<text x="10" y="140">Web Development Student • Creative Developer</text>
 </svg>

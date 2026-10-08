@@ -1,16 +1,18 @@
-## Hi there 👋
+---
+### 👩🏻‍💻 About Me
+- 💻 Programming & Web Development Student at Technical College
+- 🌐 Interested in Web Design, Creative Digital Solutions and Web Development & Software Development
+- 🌱 Currently Learning about Advanced Internet Technologies and Smart Devices Programming
+- 🎯 Goal: Passionate about building practical, smart & meaningful technology solutions
+---
 
-<!--
-**razan-WD1/razan-WD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="JavaFX & Scene Builder" alt="JavaFX" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="SQL" alt="SQL" height="48" /> 
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" height="48" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" height="48" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" height="48" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
